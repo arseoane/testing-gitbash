@@ -1,3 +1,4 @@
 Línea A: Mejora de rendimiento
 
 Línea B: Refactorización del código
+Hola
